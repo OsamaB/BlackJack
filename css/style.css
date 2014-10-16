@@ -1,0 +1,67 @@
+body {
+	background: url('../img/pokertables.jpg') no-repeat center center fixed;
+}
+
+h3 {
+text-align: center;
+color: #252;
+font-family: Verdana;
+text-shadow: 0 0 10px #FFF,
+               0 0 20px #FFF,
+               0 0 30px #FFF,
+               0 0 40px #00FFDE,
+               0 0 70px #00FFDE,
+               0 0 80px #00FFDE,
+               0 0 100px #00FFDE,
+               0 0 150px #00FFDE;
+}
+
+#dealer {
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	border-style: dashed;
+	background: url('../img/dealer.jpg') no-repeat;
+	width: 140px;
+	height: 198px;
+
+}
+
+#status {
+	background-color: #BADA55;
+	position: absolute;
+	top: 80px;
+	right: 10px;
+	margin-left: 0px;
+	border-style: double;
+	border-radius: 15px;
+	padding: 5px;
+	width: 40%;
+	height: 50px;
+}
+
+#table {
+	background-color: #BADA55;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 40px;
+	border-color: #142;
+	border-width: 5px;
+	border-style: solid;
+	width: 75%;
+	display: table;
+	height: auto;
+}
+
+#empty-space {
+	height: 50px;
+	width: 30px;
+}
+
+.button {
+	margin-left: auto;
+	margin-right: auto;
+}
+.card {
+	transform: scale(0.5, 0.5);
+}

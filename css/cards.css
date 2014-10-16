@@ -1,0 +1,185 @@
+/*The Diamond-cards*/
+.D2{
+	background-position: 0px 0px;
+}
+.D3{
+	background-position: -170px 0px;
+}
+.D4{
+	background-position: -340px 0px;
+}
+.D5{
+	background-position: -510px 0px;
+}
+.D6{
+	background-position: -680px 0px;
+}
+.D7{
+	background-position: -850px 0px;
+}
+.D8{
+	background-position: -1020px 0px;
+}
+.D9{
+	background-position: -1190px 0px;
+}
+.D10{
+	background-position: -1370px 0px;
+}
+.Dj{
+	background-position: -1540px 0px;
+}
+.Dq{
+	background-position: -1710px 0px;
+}
+.Dk{
+	background-position: -1880px 0px;
+}
+.Da{
+	background-position: -2050px 0px;
+}
+
+
+
+/*The Spades-cards*/
+.S2{
+	background-position: 0px 225px;
+}
+.S3{
+	background-position: -170px 225px;
+}
+.S4{
+	background-position: -340px 225px;
+}
+.S5{
+	background-position: -510px 225px;
+}
+.S6{
+	background-position: -680px 225px;
+}
+.S7{
+	background-position: -850px 225px;
+}
+.S8{
+	background-position: -1020px 225px;
+}
+.S9{
+	background-position: -1190px 225px;
+}
+.S10{
+	background-position: -1370px 225px;
+}
+.Sj{
+	background-position: -1540px 225px;
+}
+.Sq{
+	background-position: -1710px 225px;
+}
+.Sk{
+	background-position: -1880px 225px;
+}
+.Sa{
+	background-position: -2050px 225px;
+}
+
+
+
+/*The Hearts-cards*/
+.H2{
+	background-position: 0px 465px;
+}
+.H3{
+	background-position: -170px 465px;
+}
+.H4{
+	background-position: -340px 465px;
+}
+.H5{
+	background-position: -510px 465px;
+}
+.H6{
+	background-position: -680px 465px;
+}
+.H7{
+	background-position: -850px 465px;
+}
+.H8{
+	background-position: -1020px 465px;
+}
+.H9{
+	background-position: -1190px 465px;
+}
+.H10{
+	background-position: -1370px 465px;
+}
+.Hj{
+	background-position: -1540px 465px;
+}
+.Hq{
+	background-position: -1710px 465px;
+}
+.Hk{
+	background-position: -1880px 465px;
+}
+.Ha{
+	background-position: -2050px 465px;
+}
+
+
+
+/*The Clubs-cards*/
+.C2{
+	background-position: 0px 705px;
+}
+.C3{
+	background-position: -175px 705px;
+}
+.C4{
+	background-position: -340px 705px;
+}
+.C5{
+	background-position: -513px 705px;
+}
+.C6{
+	background-position: -685px 705px;
+}
+.C7{
+	background-position: -855px 705px;
+}
+.C8{
+	background-position: -1030px 705px;
+}
+.C9{
+	background-position: -1198px 705px;
+}
+.C10{
+	background-position: -1370px 705px;
+}
+.Cj{
+	background-position: -1545px 705px;
+}
+.Cq{
+	background-position: -1710px 705px;
+}
+.Ck{
+	background-position: -1886px 705px;
+}
+.Ca{
+	background-position: -2055px 705px;
+}
+
+
+/*The Back of the cards*/
+.back{
+	background-position: -2220px 465px;
+}
+
+.card{
+	float:left;
+	background-image: url(../img/card-deck.png);
+	border:0px;
+	padding:0px;
+	margin:0px;
+	width:160px;
+	height:225px;
+}

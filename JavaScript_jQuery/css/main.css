@@ -1,0 +1,262 @@
+			h1{text-align: center;
+				color: blue;
+			}
+			img{
+				overflow: hidden;
+				display: inline-block;
+				float: left;
+				position: relative;
+				left:480px;
+				top:0px;
+				
+				width: auto;
+				background-color:white;
+				margin:0px;
+				
+
+				
+				
+			}
+			#header{
+				overflow: hidden;
+				background-size: 100% 100%;
+				text-align: left;
+			}
+			#dialog{
+				float: right;
+				width: 55%;
+				background-size: 100% 100%;
+				padding: 10px;
+				margin-right: 20px;
+				font-family: Georgia-bold-italic,Arial, sans-serif; 
+				border:2px solid;
+				border-color: green;
+				border-radius: 5px;
+				background-color: yellow;
+			}
+			#computer{
+				height: 33%;
+			}
+			#between{
+				height: 33%;
+			}
+			#player{
+				height: 33%
+			}
+			#body{
+				background-color: red;
+			}
+			.container{
+			background-image: url(../img/casino-background.jpg);
+			width: 1400px;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+			.box {
+				position: relative;
+				width: 800px;
+				height: 400px;
+				border: 5px solid #000;
+				background-color: green;
+				left:200px;
+				top:10px;
+				margin: 10px;
+				z-index:10;
+			}
+			.button{width:150px;
+			  height: 50px;
+			  font-size: 15px;
+			  position: relative;
+			  top:0px;
+			  left:250px;
+			  margin: 10px;
+			}
+			p {
+				font-size: 1.5em;
+			}
+
+
+
+.C1{
+	background-position: -0px -0px;
+}
+.C2{
+	background-position: -73px -0px;
+}
+.C3{
+	background-position: -146px -0px;
+}
+.C4{
+	background-position: -219px -0px;
+}
+.C5{
+	background-position: -292px -0px;
+}
+.C6{
+	background-position: -365px -0px;
+}
+.C7{
+	background-position: -438px -0px;
+}
+.C8{
+	background-position: -511px -0px;
+}
+.C9{
+	background-position: -584px -0px;
+}
+.C10{
+	background-position: -657px -0px;
+}
+.C11{
+	background-position: -730px -0px;
+}
+.C12{
+	background-position: -803px -0px;
+}
+.C13{
+	background-position: -876px -0px;
+}
+
+.S1{
+	background-position: -0px -98px;
+}
+.S2{
+	background-position: -73px -98px;
+}
+.S3{
+	background-position: -146px -98px;
+}
+.S4{
+	background-position: -219px -98px;
+}
+.S5{
+	background-position: -292px -98px;
+}
+.S6{
+	background-position: -365px -98px;
+}
+.S7{
+	background-position: -438px -98px;
+}
+.S8{
+	background-position: -511px -98px;
+}
+.S9{
+	background-position: -584px -98px;
+}
+.S10{
+	background-position: -657px -98px;
+}
+.S11{
+	background-position: -730px -98px;
+}
+.S12{
+	background-position: -803px -98px;
+}
+.S13{
+	background-position: -876px -98px;
+}
+
+.H1{
+	background-position: -0px -196px;
+}
+.H2{
+	background-position: -73px -196px;
+}
+.H3{
+	background-position: -146px -196px;
+}
+.H4{
+	background-position: -219px -196px;
+}
+.H5{
+	background-position: -292px -196px;
+}
+.H6{
+	background-position: -365px -196px;
+}
+.H7{
+	background-position: -438px -196px;
+}
+.H8{
+	background-position: -511px -196px;
+}
+.H9{
+	background-position: -584px -196px;
+}
+.H10{
+	background-position: -657px -196px;
+}
+.H11{
+	background-position: -730px -196px;
+}
+.H12{
+	background-position: -803px -196px;
+}
+.H13{
+	background-position: -876px -196px;
+}
+.P1{
+	background-position: -0px -294px;
+}
+.P2{
+	background-position: -73px -294px;
+}
+.P3{
+	background-position: -146px -294px;
+}
+.P4{
+	background-position: -219px -294px;
+}
+.P5{
+	background-position: -292px -294px;
+}
+.P6{
+	background-position: -365px -294px;
+}
+.P7{
+	background-position: -438px -294px;
+}
+.P8{
+	background-position: -511px -294px;
+}
+.P9{
+	background-position: -584px -294px;
+}
+.P10{
+	background-position: -657px -294px;
+}
+.P11{
+	background-position: -730px -294px;
+}
+.P12{
+	background-position: -803px -294px;
+}
+.P13{
+	background-position: -876px -294px;
+}
+.UN{
+	background-position: -0px -0px;
+}
+
+.card{
+	float:left;
+	background-image: url(../img/classic-playing-cards.png);
+	border:0px;
+	padding:0px;
+	margin:10px;
+	width:73px;
+	height:98px;
+}
+.cardUN{
+	float:left;
+	background-image: url(../img/newcard.png);
+	border:0px;
+	padding:0px;
+	margin:10px;
+	width:73px;
+	height:98px;
+}
+			
+		
